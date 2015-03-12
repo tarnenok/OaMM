@@ -1,0 +1,3 @@
+# OaMM
+
+optimization methods
