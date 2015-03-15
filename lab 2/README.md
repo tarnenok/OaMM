@@ -1,1 +1,3 @@
-#Lab 1
+#Lab 2
+
+Gamori method of integer task

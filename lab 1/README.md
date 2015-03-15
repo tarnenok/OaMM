@@ -1,1 +1,3 @@
-#Lab 2
+#Lab 1
+
+Branch and bound method of integer number task
