@@ -21,4 +21,3 @@ function [ resAllocArgs, maxVal ] = resourceAlloc( resArgs )
         end
     end
 end
-
